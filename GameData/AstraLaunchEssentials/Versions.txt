@@ -1,0 +1,14 @@
+Changelog:
+
+	Version 1.1.0 [CURRENT]
+	- Added Flags (Astra, and USA Flag)
+	- StrongBack Rectract Animation
+	- Added Pipe Models
+	- Extra Materials
+	- Model Fix, and Added Detail.
+	- Basic Clap Arms (Pre-Alpha)
+
+
+	Version 1.0.0
+	- First Mod Release
+	- Basic Model with Basic Materials
